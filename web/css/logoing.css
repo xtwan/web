@@ -1,0 +1,44 @@
+body {
+  padding: 0;
+  margin: 0;
+  background: white;
+}
+#header {
+  background: #006699;
+}
+#header .mui-title {
+  color: white;
+}
+#header span {
+  color: white;
+  font-weight: bold;
+}
+#header button {
+  color: white;
+}
+.main {
+  width: 100%;
+  padding-left: 25px;
+  padding-right: 25px;
+  box-sizing: border-box;
+}
+.clear {
+  clear: both;
+  margin-top: 53px;
+}
+.mui-btn-primary {
+  width: 100%;
+}
+.cz_text a {
+  color: #007AFF;
+  float: right;
+  padding-top: 10px;
+  box-sizing: border-box;
+  font-size: 10px;
+}
+.mui-bar-tab {
+  background: #006699;
+}
+.mui-bar-tab span {
+  color: white;
+}

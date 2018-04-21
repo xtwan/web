@@ -1,0 +1,144 @@
+#header {
+  background: #006699;
+}
+#header .mui-title {
+  color: white;
+}
+#header span {
+  color: white;
+  font-weight: bold;
+  float: right;
+}
+#header button {
+  color: white;
+  margin-top: 10px;
+}
+#body {
+  background: white;
+}
+.main {
+  width: 100%;
+  background: white;
+}
+.main div:first-child {
+  width: 100%;
+  padding-left: 5px;
+  color: black;
+  font-size: 15px;
+  font-weight: bold;
+  border-bottom: 1px solid #ccc;
+  padding-bottom: 5px;
+}
+.main div:nth-child(2) {
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-left: 5px;
+  border-bottom: 1px solid #ccc;
+}
+.main div:nth-child(2) i {
+  color: black;
+  font-style: normal;
+  font-size: 13px;
+}
+.main div:nth-child(2) .span1 {
+  color: red;
+  font-size: 18px;
+}
+.main div:nth-child(2) .span2 {
+  padding-left: 5px;
+  font-size: 13px;
+  color: #ccc;
+  text-decoration: line-through;
+}
+.main div:nth-child(3) {
+  margin-top: -9px;
+  width: 100%;
+}
+.main div:nth-child(3) ul {
+  width: 100%;
+  list-style: none;
+  margin-left: 0px;
+  position: relative;
+}
+.main div:nth-child(3) ul span {
+  float: left;
+  font-size: 15px;
+  margin-left: -35px;
+  position: absolute;
+  top: 5px;
+}
+.main div:nth-child(3) ul li {
+  margin: 1px 1px;
+  float: left;
+  width: 25px;
+  height: 25px;
+  border: 1px solid #ccc;
+  text-align: center;
+  line-height: 25px;
+  font-size: 13px;
+}
+.main div:nth-child(4) {
+  background: white;
+  padding-bottom: 5px;
+  width: 100%;
+}
+.main div:nth-child(4) ul {
+  width: 100%;
+  list-style: none;
+  margin-left: -29px;
+}
+.main div:nth-child(4) ul li {
+  margin: 1px 0.5px;
+  float: left;
+  width: 25px;
+  height: 25px;
+  border: 1px solid #ccc;
+  text-align: center;
+  line-height: 25px;
+  font-size: 13px;
+}
+.clear {
+  clear: both;
+  border-bottom: 1px solid #ccc;
+  padding-top: 8px;
+}
+.box {
+  widows: 100%;
+}
+.box #btn {
+  padding-top: 5px;
+  padding-left: 49px;
+  padding-right: 189px;
+  padding-bottom: 5px;
+  box-sizing: border-box;
+  position: relative;
+}
+.box #btn .span1 {
+  position: absolute;
+  top: 14px;
+  left: 13px;
+}
+.box #btn .span2 {
+  position: absolute;
+  top: 14px;
+  right: 69px;
+}
+.end {
+  width: 100px;
+  position: relative;
+}
+.end span {
+  padding: 10px 10px;
+}
+.end .btn1 {
+  position: absolute;
+  left: 59px;
+  top: 5px;
+  background: #991020;
+}
+.end .btn2 {
+  position: absolute;
+  left: 180px;
+  top: 5px;
+  background: #FA672D;
+}

@@ -1,0 +1,24 @@
+#header {
+  background: #006699;
+}
+#header .mui-title {
+  color: white;
+}
+#header span {
+  color: white;
+  font-weight: bold;
+}
+#header button {
+  color: white;
+}
+.input {
+  padding-top: 43px;
+  width: 100%;
+  background: white;
+}
+.input .btn {
+  padding-left: 10px;
+  padding-right: 50tpx;
+  box-sizing: border-box;
+  padding-top: 10px;
+}

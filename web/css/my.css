@@ -1,0 +1,32 @@
+#header {
+  background: #006699;
+}
+#header .mui-title {
+  color: white;
+}
+#header span {
+  color: white;
+  font-weight: bold;
+}
+#header button {
+  color: white;
+}
+.center {
+  padding-top: 45px;
+}
+.center #mui-table-view {
+  border: 1px solid #ccc;
+  box-sizing: border-box;
+  margin-top: 18px;
+  margin-left: 9px;
+  margin-right: 9px;
+  border-radius: 10px;
+  height: 32px;
+  font-size: 13px;
+  line-height: 13px;
+  background: #FFFFFF;
+  list-style: none;
+}
+.center #mui-table-view a {
+  margin-left: -53px;
+}

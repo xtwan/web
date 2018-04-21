@@ -1,0 +1,123 @@
+* {
+  padding: 0;
+  margin: 0;
+  list-style: none;
+}
+.na {
+  width: 100%;
+  background: #006699;
+  color: white;
+  line-height: 35px;
+  font-size: 15px;
+  text-align: center;
+  position: fixed;
+  z-index: 1000;
+}
+.na i {
+  color: white;
+  line-height: 35px;
+  float: right;
+  margin-right: 5px;
+  font-weight: bold;
+}
+#nav {
+  background: #006699;
+}
+#nav span {
+  color: white;
+}
+#nav span[class^='mui-icon'] {
+  font-size: 19px;
+}
+#nav span[class^='mui-tab'] {
+  font-size: 10px;
+}
+#nav .mui-icon-home {
+  color: #F48A07;
+}
+.navsan {
+  overflow: hidden;
+}
+.navsan img {
+  width: 100%;
+  vertical-align: middle;
+}
+.mui-row:first-child {
+  padding-left: 5px;
+  padding-right: 5px;
+  box-sizing: border-box;
+}
+.main_yrf {
+  width: 100%;
+  border-top: 1px solid #ccc;
+  overflow: hidden;
+}
+.main_yrf ul {
+  width: 100%;
+  padding-left: 8px;
+  padding-right: 5px;
+  box-sizing: border-box;
+  overflow: hidden;
+}
+.main_yrf ul li {
+  width: 33.333%;
+  float: left;
+}
+.main_yrf ul li img {
+  width: 100%;
+}
+.main_yrf .float-right {
+  width: 33.3333333%;
+  float: right;
+  overflow: hidden;
+  height: 99%;
+}
+.main-pp {
+  width: 100%;
+  padding-left: 7px;
+  padding-right: 5px;
+  background: white;
+  box-sizing: border-box;
+}
+.main-pp .main-ppzq {
+  width: 100%;
+  overflow: hidden;
+}
+.main-bottom {
+  width: 100%;
+  text-align: center;
+  margin-top: -10px;
+}
+.main-bottom .mui-col-sm-6 {
+  width: 47%;
+  margin: 3px;
+  border: 1px #ccc solid;
+}
+.main-bottom .mui-col-sm-6 .span1 {
+  font-size: 10px;
+  color: red;
+}
+.main-bottom .mui-col-sm-6 .span2 {
+  font-size: 5px;
+  text-decoration: line-through;
+  color: #ccc;
+  text-align: center;
+}
+.main-bottom .mui-col-sm-6 .aaa {
+  display: block;
+  width: 80px;
+  height: 25px;
+  background: red;
+  margin: 0 auto;
+  line-height: 25px;
+  border-radius: 5px;
+  background: #006699;
+  font-size: 13px;
+  color: white;
+  margin-bottom: 10px;
+  box-sizing: border-box;
+}
+.end {
+  width: 100%;
+  margin-bottom: 10px;
+}
